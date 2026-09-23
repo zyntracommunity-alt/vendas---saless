@@ -1,0 +1,166 @@
+{
+  "shopName": "Zyntra community - SALES",
+  "currency": "BRL",
+  "categoryId": "1549042390814429396",
+  "staffRoleId": "1549036467412668476",
+  "salesLogChannelId": "1549530399422685305",
+  "payment": {
+    "method": "PIX",
+    "instructions": "Envie o pagamento pelo método informado pela equipe.\n\nPIX: COLOQUE_SUA_CHAVE_AQUI"
+  },
+  "products": [
+    {
+      "id": "uefi-1-day",
+      "channel": "uefi",
+      "family": "FURIA UEFI",
+      "name": "1 Day",
+      "description": "Acesso por 1 dia.",
+      "price": 10,
+      "roleId": "1549077718895689948"
+    },
+    {
+      "id": "uefi-1-month",
+      "channel": "uefi",
+      "family": "FURIA UEFI",
+      "name": "1 Month",
+      "description": "Acesso por 1 mês.",
+      "price": 10,
+      "roleId": "1549077718895689948"
+    },
+    {
+      "id": "uefi-lifetime",
+      "channel": "uefi",
+      "family": "FURIA UEFI",
+      "name": "Lifetime",
+      "description": "Acesso vitalício.",
+      "price": 10,
+      "roleId": "1549077718895689948"
+    },
+    {
+      "id": "external-1-day",
+      "channel": "external",
+      "family": "FURIA External",
+      "name": "1 Day",
+      "description": "Acesso por 1 dia.",
+      "price": 10,
+      "roleId": "1549077773539090472"
+    },
+    {
+      "id": "external-1-month",
+      "channel": "external",
+      "family": "FURIA External",
+      "name": "1 Month",
+      "description": "Acesso por 1 mês.",
+      "price": 10,
+      "roleId": "1549077773539090472"
+    },
+    {
+      "id": "external-lifetime",
+      "channel": "external",
+      "family": "FURIA External",
+      "name": "Lifetime",
+      "description": "Acesso vitalício.",
+      "price": 10,
+      "roleId": "1549077773539090472"
+    },
+    {
+      "id": "bypass-1-day",
+      "channel": "bypass",
+      "family": "FURIA Bypass",
+      "name": "1 Day",
+      "description": "Acesso por 1 dia.",
+      "price": 10,
+      "roleId": "1549077828346056796"
+    },
+    {
+      "id": "bypass-1-month",
+      "channel": "bypass",
+      "family": "FURIA Bypass",
+      "name": "1 Month",
+      "description": "Acesso por 1 mês.",
+      "price": 10,
+      "roleId": "1549077828346056796"
+    },
+    {
+      "id": "bypass-lifetime",
+      "channel": "bypass",
+      "family": "FURIA Bypass",
+      "name": "Lifetime",
+      "description": "Acesso vitalício.",
+      "price": 10,
+      "roleId": "1549077828346056796"
+    },
+    {
+      "id": "metodo-de-bypass",
+      "channel": "metodo-de-bypass",
+      "family": "Método de Bypass",
+      "name": "Método de Bypass",
+      "description": "Método de Bypass.",
+      "price": 10,
+      "roleId": "1549077828346056796"
+    },
+    {
+      "id": "client-1-day",
+      "channel": "client",
+      "family": "FURIA Client",
+      "name": "1 Day",
+      "description": "Acesso por 1 dia.",
+      "price": 10,
+      "roleId": "1549528006190702676"
+    },
+    {
+      "id": "client-1-month",
+      "channel": "client",
+      "family": "FURIA Client",
+      "name": "1 Month",
+      "description": "Acesso por 1 mês.",
+      "price": 10,
+      "roleId": "1549528006190702676"
+    },
+    {
+      "id": "client-lifetime",
+      "channel": "client",
+      "family": "FURIA Client",
+      "name": "Lifetime",
+      "description": "Acesso vitalício.",
+      "price": 10,
+      "roleId": "1549528006190702676"
+    },
+    {
+      "id": "boosts-perm",
+      "channel": "🚀・b00sts",
+      "family": "B00STS",
+      "name": "Permanent",
+      "description": "Acesso permanente.",
+      "price": 10,
+      "roleId": "1549036622945845248"
+    },
+    {
+      "id": "gtav-perm",
+      "channel": "🔫・gta-v",
+      "family": "GTAV",
+      "name": "Permanent",
+      "description": "Acesso permanente.",
+      "price": 10,
+      "roleId": "1549036647755022366"
+    },
+    {
+      "id": "gtav-shared-perm",
+      "channel": "gtav-compartilhado",
+      "family": "GTAV Compartilhado",
+      "name": "Permanent",
+      "description": "Acesso permanente.",
+      "price": 10,
+      "roleId": "1549527173524627506"
+    },
+    {
+      "id": "rockstar-perm",
+      "channel": "⭐・r0ckstar",
+      "family": "Rockstar",
+      "name": "Permanent",
+      "description": "Acesso permanente.",
+      "price": 1.0,
+      "roleId": "1549036597855387770"
+    }
+  ]
+}
