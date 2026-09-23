@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Bot de vendas para Discord com painel, tickets, aprovação manual e entrega por cargo.",
   "main": "src/index.js",
-  "scripts": {"start": "node src/index.js"},
-  "dependencies": {"discord.js": "^14.25.1", "dotenv": "^17.2.2"}
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
 }
